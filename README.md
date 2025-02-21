@@ -8,5 +8,5 @@ Creation of programs using Python, HTML, CSS and JavaScript
 - 💬 Ask me about Partnerships and Disclosures
 - 📫 How to reach me: Instagram @ferrazzz_047
 - ⚡ Fun fact: I love Geek Culture in general, Anime, Manga, Rock, Heavy Metal and Cats.
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
