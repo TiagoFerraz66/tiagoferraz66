@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Meu GIF Legal](https://github.com/usuario/nome-do-repositorio/blob/main/tumblr_a8e185ec83c8f7798ec22e018f299493_5d2edaa4_540)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
