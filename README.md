@@ -1,5 +1,5 @@
-# <!-- Código estilizado no topo -->
-```js
+
+# ```js
 import { TiagoFerraz66 as TiagoFerraz } from 'user/name';
 
 ## Hi there 👋
