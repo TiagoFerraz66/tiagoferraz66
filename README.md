@@ -24,3 +24,6 @@ Creation of programs using Python, HTML, CSS and JavaScript
 
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight)
 ![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight)
+
+```js
+import { Tiago Ferraz as TiagoFerraz66 } from 'universe';
