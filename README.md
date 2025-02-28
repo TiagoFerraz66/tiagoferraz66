@@ -22,8 +22,9 @@ Creation of programs using Python, HTML, CSS and JavaScript
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-```js
-import { Tiago Ferraz as TiagoFerraz66 } from 'user/name'
 
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight)
 ![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight)
+
+```js
+import { Tiago Ferraz as TiagoFerraz66 } from 'user/name'
