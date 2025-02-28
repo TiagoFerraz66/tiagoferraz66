@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Meu GIF Legal](https://github.com/usuario/nome-do-repositorio/blob/main/tumblr_a8e185ec83c8f7798ec22e018f299493_5d2edaa4_540)
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tiago-ferraz-884603307)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gandalf689)
