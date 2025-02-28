@@ -1,5 +1,3 @@
-```js
-import { Tiago Ferraz as TiagoFerraz66 } from 'user/name'
 
 ## Hi there 👋
 
