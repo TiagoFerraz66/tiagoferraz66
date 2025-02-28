@@ -24,8 +24,3 @@ Creation of programs using Python, HTML, CSS and JavaScript
 
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight)
 ![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight)
-
-<svg width="100%" height="100%" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="40" font-family="monospace" font-size="30" fill="purple" id="hiText">Hi there!</text>
-  <animate id="textAnimation" attributeName="x" from="10" to="500" dur="5s" repeatCount="indefinite" />
-</svg>
