@@ -8,12 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gandalf689)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gandalf6698)
 
-<h2 align="center">
-  <a href="#">Welcome!!</a>
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Welcome!!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Welcome!!💜">
 </p>
 
 - 🔭 I’m currently working on I am looking to collaborate in Mechanical Project Development and Maintenance,
