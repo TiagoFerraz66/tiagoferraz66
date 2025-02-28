@@ -3,11 +3,9 @@
 
 ![GIF animado](https://64.media.tumblr.com/a8e185ec83c8f7798ec22e018f299493/2f370548baab0a5d-52/s540x810/5d2edaa461bf78004a2250d141b178a6a94e50bb.gif)
 
-import { TiagoFerraz as TiagoFerraz66 } from 'user/name';
-
-const exemplo = TiagoFerraz66();
-
-console.log(exemplo);
+```js
+import { Tiago Ferraz as TiagoFerraz66 } from 'user/name'
+```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tiago-ferraz-884603307)
