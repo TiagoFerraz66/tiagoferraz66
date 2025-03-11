@@ -31,5 +31,3 @@ Creation of programs using Python, HTML, CSS and JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight&count_private=true)
-![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight&count_private=true)
