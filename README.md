@@ -1,4 +1,4 @@
-
+![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2a2a72,009ffd&section=header)
 ## Hi there 👋
 
 ![GIF animado](https://64.media.tumblr.com/a8e185ec83c8f7798ec22e018f299493/2f370548baab0a5d-52/s540x810/5d2edaa461bf78004a2250d141b178a6a94e50bb.gif)
@@ -50,3 +50,4 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 ## Graphics 📊
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight&count_private=true)
 ![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight&count_private=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2a2a72,009ffd&section=footer)
