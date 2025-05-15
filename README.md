@@ -57,7 +57,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 
-## Operating System
+## Operating System 💻
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 ## Graphics 📊
