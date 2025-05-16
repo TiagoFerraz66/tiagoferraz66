@@ -77,4 +77,6 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 ## Graphics 📊
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=tiagoferraz66&show_icons=true&hide_title=true&theme=tokyonight&count_private=true)
 ![Linguagens Usadas](https://github-readme-languages.vercel.app/api/top-langs/?username=tiagoferraz66&layout=compact&theme=tokyonight&count_private=true)
+<!-- GitHub Streak (Contribuições em sequência) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoferraz66&theme=tokyonight)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=footer)
