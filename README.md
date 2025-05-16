@@ -1,9 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=header)
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/yamato.gif" width="300">
-</p>
+![GIF animado](https://github.com/tiagoferraz66/tiagoferraz66/blob/main/assets/novo-gif-perfil.gif?raw=true)
 
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
