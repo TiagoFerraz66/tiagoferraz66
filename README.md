@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=header)
 ## Hi there 👋
 
-![Yamato GIF](https://media1.tenor.com/m/cWQ_4Eg8DgYAAAAd/yamato-yamato-one-piece.gif)
+![Yamato GIF](https://i.imgur.com/BRRz8vX.gif)
 
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
