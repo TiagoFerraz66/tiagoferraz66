@@ -36,7 +36,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 [![Funimation](https://img.shields.io/badge/Funimation-440088?style=for-the-badge&logo=funimation&logoColor=white)](https://www.funimation.com/)
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Ferraz66)
 
-<img src="images/5c93497c0a8bebf0214fe4389f53658b_1.jpg" width="28" alt="Jolly Roger" /> ![One Piece](https://img.shields.io/badge/One_Piece-0077BE?style=for-the-badge)
+<img src="5c93497c0a8bebf0214fe4389f53658b%20(1).jpg" width="28" alt="Jolly Roger" /> ![One Piece](https://img.shields.io/badge/One_Piece-0077BE?style=for-the-badge)
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
