@@ -37,7 +37,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Ferraz66)
 
 <p>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/3/30/Straw_Hat_Pirates_Jolly_Roger_Anime_Infobox.png" width="30" alt="Jolly Roger" />
+  <img src="https://i.imgur.com/yA7g5pH.png" width="30" alt="Jolly Roger" />
   <img src="https://img.shields.io/badge/One_Piece-0077BE?style=for-the-badge" alt="One Piece Badge" />
 </p>
 
