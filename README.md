@@ -42,6 +42,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 <img src="2e54cab094685cb9b5bc1e0525ba4dde.png" width="28" alt="Evangelion Logo" /> ![Neon Genesis Evangelion](https://img.shields.io/badge/Neon_Genesis_Evangelion-5C5C5C?style=for-the-badge)
 <img src="f5dbc10151533f2c489a93a5ae813c3a.png" width="28" alt="Berserk Logo" /> ![Berserk](https://img.shields.io/badge/Berserk-8B0000?style=for-the-badge)
 <img src="98e71e735769f13cfdf514e7cec2bb29.png" width="28" alt="Akame ga Kill Logo" /> ![Akame ga Kill](https://img.shields.io/badge/Akame_ga_Kill-DC143C?style=for-the-badge)
+<img src="ad71371ba13d30ff52e0a57fbab90c34.png" width="28" alt="Fairy Tail Logo" /> ![Fairy Tail](https://img.shields.io/badge/Fairy_Tail-FF4500?style=for-the-badge)
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
