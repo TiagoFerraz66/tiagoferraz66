@@ -46,6 +46,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 <img src="8a0c269e98b68d0395dfc74c6dbd7c1a.png" width="28" alt="Re:Zero Logo" /> ![Re:Zero](https://img.shields.io/badge/Re:Zero-6A5ACD?style=for-the-badge)
 <img src="d142c1b68dd6c28ff9619167423917ff.png" width="28" alt="Date A Live Logo" /> ![Date A Live](https://img.shields.io/badge/Date_A_Live-800080?style=for-the-badge)
 <img src="782ebc48cd68842c56afb451d72ad8f6.png" width="28" alt="High School DxD Logo" /> ![High School DxD](https://img.shields.io/badge/High_School_DxD-C70039?style=for-the-badge)
+<img src="kono-subarashii-sekai-ni-shukufuku-wo-logo-simple-background-wallpaper-preview.png" width="28" alt="KonoSuba Logo" /> ![KonoSuba](https://img.shields.io/badge/KonoSuba-FF69B4?style=for-the-badge)
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
