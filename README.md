@@ -39,6 +39,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 ## Favorite Animes ⛩️
 <img src="5c93497c0a8bebf0214fe4389f53658b%20(1).jpg" width="28" alt="Jolly Roger" /> ![One Piece](https://img.shields.io/badge/One_Piece-0077BE?style=for-the-badge)
 <img src="dd75aacad8ac7fbb2eb90a14ead2ed32.png" width="28" alt="Attack on Titan Logo" /> ![Attack on Titan](https://img.shields.io/badge/Attack_on_Titan-BF1E2E?style=for-the-badge)
+<img src="2e54cab094685cb9b5bc1e0525ba4dde.png" width="28" alt="Evangelion Logo" /> ![Neon Genesis Evangelion](https://img.shields.io/badge/Neon_Genesis_Evangelion-5C5C5C?style=for-the-badge)
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
