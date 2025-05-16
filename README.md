@@ -35,6 +35,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Ferraz66)
 [![Funimation](https://img.shields.io/badge/Funimation-440088?style=for-the-badge&logo=funimation&logoColor=white)](https://www.funimation.com/)
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Ferraz66)
+![One Piece](https://img.shields.io/badge/-One_Piece-0077BE?style=for-the-badge)
 
 
 ## Gaming Platform 🕹️
