@@ -33,6 +33,9 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seu_usuario)
 [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=Crunchyroll&logoColor=white)](https://www.crunchyroll.com/)
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Ferraz66)
+[![Funimation](https://img.shields.io/badge/Funimation-440088?style=for-the-badge&logo=funimation&logoColor=white)](https://www.funimation.com/)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Ferraz66)
+
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
