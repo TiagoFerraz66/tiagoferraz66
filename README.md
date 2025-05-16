@@ -1,8 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=header)
 ## Hi there 👋
 
-![GIF 1](https://64.media.tumblr.com/a8e185ec83c8f7798ec22e018f299493/2f370548baab0a5d-52/s540x810/5d2edaa461bf78004a2250d141b178a6a94e50bb.gif)
-![GIF 2](https://github.com/tiagoferraz66/tiagoferraz66/raw/main/novo-gif-perfil.gif)
+![GIF](https://github.com/tiagoferraz66/tiagoferraz66/raw/main/d00c59f597bd3898388095de1229be53%20(1).gif)
 
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
