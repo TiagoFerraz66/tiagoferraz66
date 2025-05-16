@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://i.postimg.cc/0y4Gx9s1/yamato.gif" alt="Yamato GIF">
+  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/yamato.gif" alt="Yamato GIF">
 </p>
 
 ## Social 👨
