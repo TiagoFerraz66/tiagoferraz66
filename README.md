@@ -2,6 +2,9 @@
 ## Hi there 👋
 
 ![GIF](https://github.com/tiagoferraz66/tiagoferraz66/raw/main/d00c59f597bd3898388095de1229be53%20(1).gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/31279c3e564465d58f88947b476cec41.gif" alt="GIF animado">
+</p>
 
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
