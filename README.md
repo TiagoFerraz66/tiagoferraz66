@@ -84,6 +84,10 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoferraz66&theme=tokyonight)
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/0fa82b9aa30dcd629dd451242a4f3d7b.gif" alt="GIF animado">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/fdaa894e30f98faa56a8f5a639bc3396.gif" alt="Yamato GIF">
 </p>
 
