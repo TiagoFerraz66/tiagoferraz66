@@ -88,7 +88,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/fdaa894e30f98faa56a8f5a639bc3396.gif" alt="Yamato GIF">
+  <img src="https://raw.githubusercontent.com/tiagoferraz66/tiagoferraz66/main/fdaa894e30f98faa56a8f5a639bc3396.gif" alt="GIF animado">
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=footer)
