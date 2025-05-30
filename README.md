@@ -70,6 +70,7 @@ Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
 
 ## Development & Tools 💻
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-ff6c37?style=for-the-badge&logo=intellij-idea&logoColor=white)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
