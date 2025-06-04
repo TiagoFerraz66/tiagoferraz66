@@ -24,7 +24,7 @@ import { Tiago Ferraz as TiagoFerraz66 } from 'user/name'
 
 ## About Me 📝
 - 🔭 I’m currently working on I am looking to collaborate in Mechanical Project Development and Maintenance,
-Creation of programs using Python, Java, C++, HTML, CSS and JavaScript
+Creation of programs using Python, Java, C++, MATLAB, HTML, CSS and JavaScript
 - 🌱 I’m currently learning Mechanical Engineering
 - 👯 I’m looking to collaborate on Website Development
 - 🤔 I’m looking for help with New Projects
