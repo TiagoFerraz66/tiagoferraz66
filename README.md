@@ -16,7 +16,7 @@ Creation of programs using Python, Java, C++, MATLAB, HTML, CSS and JavaScript
 - 👯 I’m looking to collaborate on Website Development
 - 🤔 I’m looking for help with New Projects
 - 💬 Ask me about Partnerships and Disclosures
-- 📫 How to reach me: Instagram @ferrazzz_047
+- 📫 How to reach me: Instagram @ferrazzxx_
 - ⚡ Fun fact: I love Geek Culture in general, Anime, Manga, Rock, Heavy Metal and Cats.
 
 ## Free Time 🎶
