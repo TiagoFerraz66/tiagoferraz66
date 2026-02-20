@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+![Banner Animado](https://github.com/user-attachments/assets/ef3bde8c-d023-4f4c-9c38-ce83036508a6)
+
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trashsoul666)
