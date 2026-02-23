@@ -56,4 +56,6 @@ Creation of programs using Python, Java, C++, MATLAB, HTML, CSS and JavaScript
 <!-- GitHub Streak (Contribuições em sequência) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoferraz66&theme=tokyonight)
 
+![download](https://github.com/user-attachments/assets/d5415803-2853-458a-97c8-24bf4e51583d)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=footer)
