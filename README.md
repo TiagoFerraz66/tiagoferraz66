@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 
-![Banner Animado](https://github.com/user-attachments/assets/ef3bde8c-d023-4f4c-9c38-ce83036508a6)
 
 ## Social 👨
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
@@ -57,6 +56,5 @@ Creation of programs using Python, Java, C++, Lua, MATLAB, HTML, CSS and JavaScr
 <!-- GitHub Streak (Contribuições em sequência) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoferraz66&theme=tokyonight)
 
-![download](https://github.com/user-attachments/assets/d5415803-2853-458a-97c8-24bf4e51583d)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A5ACD,50:483D8B,100:4682B4&section=footer)
