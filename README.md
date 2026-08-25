@@ -4,25 +4,15 @@
 - 🔭 I’m currently working on I am looking to collaborate in Mechanical Project Development and Maintenance,
 Creation of programs using Python, Java, C++, Lua, MATLAB, HTML, CSS and JavaScript.
 - 🌱 I’m currently learning Mechanical Engineering
-- 👯 I’m looking to collaborate on Website Development
-- 🤔 I’m looking for help with New Projects
+- ⚡ I’m looking for help with New Projects
 - 💬 Ask me about Partnerships and Disclosures
-- 📫 How to reach me: Instagram @ferrazzxx_
-- ⚡ Fun fact: I love Geek Culture in general, Anime, Manga, Rock, Heavy Metal and Cats.
+- 📫 How to reach me: tiagoferrazlima2006@gmail.com
 
 ## Social 👨
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferrazzz_047/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trashsoul666)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tiago-ferraz-884603307)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gandalf689)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gandalf6698)
 
 ## Free Time 🎶
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seu_usuario)
-[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=Crunchyroll&logoColor=white)](https://www.crunchyroll.com/)
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Ferraz66)
-[![Funimation](https://img.shields.io/badge/Funimation-440088?style=for-the-badge&logo=funimation&logoColor=white)](https://www.funimation.com/)
-[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Ferraz66)
 
 ## Gaming Platform 🕹️
 [![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
