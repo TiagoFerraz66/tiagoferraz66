@@ -8,16 +8,6 @@ Creation of programs using Python, Java, C++, Lua, MATLAB, HTML, CSS and JavaScr
 - 💬 Ask me about Partnerships and Disclosures
 - 📫 How to reach me: tiagoferrazlima2006@gmail.com
 
-## Social 👨
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tiago-ferraz-884603307)
-
-## Free Time 🎶
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seu_usuario)
-
-## Gaming Platform 🕹️
-[![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.nintendo.com/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
-
 ## Programming Languages 👨‍💻  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
